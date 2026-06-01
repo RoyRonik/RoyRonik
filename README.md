@@ -11,8 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2)](https://linkedin.com/in/ronik-eeswar-513b0b280)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=333)](https://github.com/RoyRonik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=D14836)](mailto:ronikeeswar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF7043&color=FF5722)](royronik.vercel.app)
-[![OWASP](https://img.shields.io/badge/OWASP-Member-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF7043&color=FF5722)](https://royronik.vercel.app)
 
 [![Profile views](https://komarev.com/ghpvc/?username=RoyRonik&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/RoyRonik)
 
