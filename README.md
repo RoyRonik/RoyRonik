@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ronik%20Eeswar%20NR&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Cybersecurity%20%7C%20Ethical%20Hacker%20%7C%20AI%20%26%20IoT%20Builder&descAlignY=55&descSize=18)](https://github.com/RoyRonik)
+[![Header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ronik%20Eeswar%20NR&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Cybersecurity%20%7C%20Ethical%20Hacker%20%7C%20AI%20%26%20IoT%20Builder&descAlignY=55&descSize=18)](https://github.com/RoyRonik](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Ronik%20Eeswar&section=header&textBg=false))
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Penetration+Tester+%26+Ethical+Hacker+%F0%9F%94%90;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;IoT+%26+Embedded+Systems+Builder+%F0%9F%9B%A0;National+Hackathon+Champion+%F0%9F%8F%86)](https://github.com/RoyRonik)
 
